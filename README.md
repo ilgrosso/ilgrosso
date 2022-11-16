@@ -12,4 +12,4 @@ I am Italian (and proud to be), married with my lovely wife Cinzia, father of a 
 
 <p>Besides ASF, I am project owner of <a href="https://connid.tirasa.net" target="_blank" rel="nofollow noopener noreferrer">ConnId</a>.</p>
 
-<a rel="me" href="https://fosstodon.org/@ilgrosso">Mastodon</a>
+...and you can also find me on <a rel="me" href="https://fosstodon.org/@ilgrosso">Mastodon</a>
